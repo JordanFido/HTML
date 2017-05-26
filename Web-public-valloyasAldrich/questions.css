@@ -1,0 +1,118 @@
+.hardware{background-image:url(images/hardware.jpg);
+     background-attachment: fixed;
+    background-position: center;
+    height:100%; 
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.software{background-image:url(images/software.jpg);
+     background-attachment: fixed;
+    background-position: center;
+    height:100%; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.appinventor{background-image:url(images/appinventor.png);
+     background-attachment: fixed;
+    background-position: center;
+    height:100%; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.html{background-image:url(images/html.png);
+     background-attachment: fixed;
+    background-position: center;
+   height:100%; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.css{background-image:url(images/cascadingstylesheet.jpg);
+     background-attachment: fixed;
+    background-position: center;
+    height:100%; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.javascript{background-image:url(images/java-script.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    height:100%; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.congrats{background-image:url(images/confetti.gif);
+    
+}
+
+
+
+
+#headinghardware, #headingcss {
+    font-family:Verdana;
+    color:orange;
+}
+
+#headingsoftware {
+    font-family:Verdana;
+    color:white;
+}
+
+#headingappinventor {
+    font-family:Verdana;
+    color:black;
+}
+
+#headinghtml {
+    font-family:Verdana;
+    color:blue;
+}
+
+#headingjavascript {
+    font-family:Verdana;
+    color:brown;
+}
+    
+#paragraphhardware, #paragraphcss  {
+    font-family:Verdana;
+    color:orange;
+}
+
+#paragraphsoftware {
+    font-family:Verdana;
+    color:white;
+    
+}
+
+#paragraphappinventor {
+    font-family:Verdana;
+    color:black;
+}
+
+#paragraphhtml {
+        font-family:Verdana;
+    color:blue;
+
+}
+
+#paragraphjavascript {
+        font-family:Verdana;
+    color:brown;
+
+}
+
+#paragraphff, #headingff {
+    font-family:Verdana;
+    text-align:center;
+    color:white;
+}
+body {
+    background-color: powderblue;
+}
+
