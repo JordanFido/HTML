@@ -57,53 +57,63 @@
 #headinghardware, #headingcss {
     font-family:Verdana;
     color:orange;
+     font-size:16px;
 }
 
 #headingsoftware {
     font-family:Verdana;
     color:white;
+     font-size:16px;
 }
 
 #headingappinventor {
     font-family:Verdana;
     color:black;
+     font-size:16px;
 }
 
 #headinghtml {
     font-family:Verdana;
     color:blue;
+     font-size:16px;
 }
 
 #headingjavascript {
     font-family:Verdana;
     color:brown;
+     font-size:16px;
 }
     
 #paragraphhardware, #paragraphcss  {
     font-family:Verdana;
     color:orange;
+     font-size:16px;
 }
 
 #paragraphsoftware {
     font-family:Verdana;
     color:white;
+     font-size:16px;
     
 }
 
 #paragraphappinventor {
     font-family:Verdana;
     color:black;
+     font-size:16px;
 }
 
 #paragraphhtml {
         font-family:Verdana;
     color:blue;
+     font-size:16px;
 
 }
 
 #paragraphjavascript {
         font-family:Verdana;
     color:brown;
+     font-size:16px;
 
 }
 
@@ -111,6 +121,7 @@
     font-family:Verdana;
     text-align:center;
     color:white;
+     font-size:16px;
 }
 body {
     background-color: powderblue;
